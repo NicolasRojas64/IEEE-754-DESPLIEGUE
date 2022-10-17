@@ -1,7 +1,7 @@
 {
   "name": "arquitectura-proyecto1",
   "version": "0.1.0",
-  "homepage": "nicolasrojas64.github.io/IEEE-754",
+  "homepage": "nicolasrojas64.github.io/IEEE-754-Despliegue",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
