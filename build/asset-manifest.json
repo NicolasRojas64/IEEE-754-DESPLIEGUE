@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nicolasrojas64.github.io/IEEE-754-Despliegue/static/css/main.012d11c3.css",
+    "main.js": "/nicolasrojas64.github.io/IEEE-754-Despliegue/static/js/main.b716ffc1.js",
+    "static/js/787.dd91ce9c.chunk.js": "/nicolasrojas64.github.io/IEEE-754-Despliegue/static/js/787.dd91ce9c.chunk.js",
+    "index.html": "/nicolasrojas64.github.io/IEEE-754-Despliegue/index.html",
+    "main.012d11c3.css.map": "/nicolasrojas64.github.io/IEEE-754-Despliegue/static/css/main.012d11c3.css.map",
+    "main.b716ffc1.js.map": "/nicolasrojas64.github.io/IEEE-754-Despliegue/static/js/main.b716ffc1.js.map",
+    "787.dd91ce9c.chunk.js.map": "/nicolasrojas64.github.io/IEEE-754-Despliegue/static/js/787.dd91ce9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.012d11c3.css",
+    "static/js/main.b716ffc1.js"
+  ]
+}
